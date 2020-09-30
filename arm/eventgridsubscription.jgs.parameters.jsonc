@@ -1,0 +1,12 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "resourceId": {
+        "value": "/subscriptions/7fa4f2ea-77cd-4629-8fb0-42988a97b934/resourceGroups/AddTags/providers/Microsoft.Web/sites/AddTags20200928201225"
+      },
+      "eventGridSubscriptionName": {
+        "value": "AddAutoTags"
+      }
+    }
+  }
